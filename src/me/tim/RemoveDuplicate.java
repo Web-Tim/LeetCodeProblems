@@ -2,6 +2,11 @@ package me.tim;
 
 import java.util.Arrays;
 
+/**
+ * @see <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">LeetCode Problem</a>
+ * @author Tim
+ * @since 10.02.2023
+ */
 public class RemoveDuplicate {
     public static void main(String[] args) {
         Integer[] array = new Integer[]{1245, 613, 61612, 1245};
